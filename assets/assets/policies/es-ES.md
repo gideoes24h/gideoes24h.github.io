@@ -2,7 +2,7 @@
 
 **Gideões 24 horas delante del Señor**
 
-Última actualización: 15 de julio de 2025
+Última actualización: 31 de octubre de 2026
 
 ## 1. Introducción
 
@@ -64,7 +64,19 @@ Adoptamos medidas técnicas y organizativas adecuadas para garantizar la protecc
 - Acceso restringido basado en funciones  
 - Almacenamiento seguro en servidores con certificación de seguridad
 
-Los datos se almacenan por tiempo indefinido mientras el usuario mantenga su cuenta activa. Si se solicita la eliminación de la cuenta, todos los datos serán eliminados permanentemente.
+Los datos se almacenan por tiempo indefinido mientras el usuario mantenga su cuenta activa. Si se solicita la eliminación de la cuenta, todos los datos personales serán eliminados permanentemente (ver 5.1).
+
+
+### 5.1. Eliminación de la cuenta
+
+Puedes eliminar tu cuenta en cualquier momento en la aplicación (**Perfil → Eliminar mi cuenta**) o solicitar la eliminación en https://gideoes24h.github.io/delete-account/.
+
+La eliminación es definitiva y elimina: tu cuenta de acceso (inicio de sesión con Google o Apple), tus datos de perfil y foto, tus vínculos con iglesias, ministerios y horarios, tus solicitudes, tus pedidos de oración, tus registros de asistencia y tu historial individual de oraciones, incluidas las ubicaciones registradas.
+
+Solo se conservan **estadísticas agregadas y anónimas** del ministerio (por ejemplo, el número de oraciones y el total de horas de oración por día y por mes y país), sin nombre, correo electrónico, identificadores, ubicación precisa ni horarios individuales — información que no permite identificarte.
+
+Las copias de seguridad de la base de datos se eliminan automáticamente en un plazo de 30 días. Si vuelves a usar la aplicación con la misma cuenta de Google o Apple, se creará un registro nuevo, sin ningún dato anterior.
+
 
 ## 6. Derechos del Titular de los Datos
 

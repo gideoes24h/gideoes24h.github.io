@@ -2,7 +2,7 @@
 
 **Gideões 24 Stunden vor dem Herrn**
 
-Letzte Aktualisierung: 15. Juli 2025
+Letzte Aktualisierung: 31. Oktober 2026
 
 ## 1. Einführung
 
@@ -65,6 +65,18 @@ Wir setzen geeignete technische und organisatorische Maßnahmen zum Schutz der D
 - Sichere Speicherung auf zertifizierten Servern
 
 Die Daten werden unbegrenzt gespeichert, solange der Nutzer ein aktives Konto hat. Bei Anforderung der Kontolöschung werden alle Daten dauerhaft entfernt.
+
+
+### 5.1. Löschung des Kontos
+
+Du kannst dein Konto jederzeit in der App löschen (**Profil → Mein Konto löschen**) oder die Löschung unter https://gideoes24h.github.io/delete-account/ beantragen.
+
+Die Löschung ist endgültig und entfernt: dein Anmeldekonto (Google- oder Apple-Login), deine Profildaten und dein Foto, deine Verbindungen zu Gemeinden, Diensten und Dienstplänen, deine Bewerbungen, deine Gebetsanliegen, deine Anwesenheitsnachweise und deinen persönlichen Gebetsverlauf einschließlich der erfassten Standorte.
+
+Erhalten bleiben nur **aggregierte, anonyme Statistiken** des Dienstes (zum Beispiel die Anzahl der Gebete und die gesamten Gebetsstunden pro Tag sowie pro Monat und Land), ohne Name, E-Mail, Kennungen, genauen Standort oder individuelle Uhrzeiten — Informationen, mit denen du nicht identifiziert werden kannst.
+
+Datenbanksicherungen werden innerhalb von 30 Tagen automatisch gelöscht. Wenn du die App erneut mit demselben Google- oder Apple-Konto verwendest, wird ein neues Profil ohne frühere Daten angelegt.
+
 
 ## 6. Rechte der betroffenen Person
 

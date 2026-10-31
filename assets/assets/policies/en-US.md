@@ -2,7 +2,7 @@
 
 **Gideões 24 Hours Before the Lord**
 
-Last updated: July 15, 2025
+Last updated: October 31, 2026
 
 ## 1. Introduction
 
@@ -64,7 +64,19 @@ We employ appropriate technical and organizational measures to ensure data prote
 - Role-based restricted access  
 - Secure storage on certified security servers
 
-Data is stored indefinitely as long as the user maintains an active account. If account deletion is requested, all data will be permanently removed.
+Data is stored indefinitely as long as the user maintains an active account. If account deletion is requested, all personal data will be permanently removed (see 5.1).
+
+
+### 5.1. Account Deletion
+
+You can delete your account at any time in the app (**Profile → Delete my account**) or request deletion at https://gideoes24h.github.io/delete-account/.
+
+Deletion is permanent and removes: your sign-in account (Google or Apple login), your profile data and photo, your links to churches, ministries and schedules, your applications, your prayer requests, your attendance records and your individual prayer history, including recorded locations.
+
+Only **aggregated, anonymous statistics** of the ministry remain (for example, the number of prayers and total prayer hours per day and per month and country), with no name, email, identifiers, precise location or individual times — information that cannot identify you.
+
+Database backups are automatically erased within 30 days. If you use the app again with the same Google or Apple account, a new profile will be created with none of your previous data.
+
 
 ## 6. Data Subject Rights
 

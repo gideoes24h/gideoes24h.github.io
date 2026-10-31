@@ -2,7 +2,7 @@
 
 **Gideões 24 heures devant le Seigneur**
 
-Dernière mise à jour : 15 juillet 2025
+Dernière mise à jour : 31 octobre 2026
 
 ## 1. Introduction
 
@@ -65,6 +65,18 @@ Nous utilisons des mesures techniques et organisationnelles appropriées pour ga
 - Stockage sécurisé sur des serveurs certifiés
 
 Les données sont conservées indéfiniment tant que l’utilisateur maintient son compte actif. En cas de demande de suppression, toutes les données seront définitivement supprimées.
+
+
+### 5.1. Suppression du compte
+
+Vous pouvez supprimer votre compte à tout moment dans l'application (**Profil → Supprimer mon compte**) ou demander la suppression sur https://gideoes24h.github.io/delete-account/.
+
+La suppression est définitive et efface : votre compte de connexion (Google ou Apple), vos données de profil et votre photo, vos liens avec les églises, ministères et plannings, vos candidatures, vos demandes de prière, vos registres de présence et votre historique individuel de prières, y compris les localisations enregistrées.
+
+Seules subsistent des **statistiques agrégées et anonymes** du ministère (par exemple, le nombre de prières et le total d'heures de prière par jour et par mois et pays), sans nom, e-mail, identifiants, localisation précise ni horaires individuels — des informations qui ne permettent pas de vous identifier.
+
+Les sauvegardes de la base de données sont effacées automatiquement sous 30 jours. Si vous utilisez à nouveau l'application avec le même compte Google ou Apple, un nouveau profil sera créé, sans aucune donnée antérieure.
+
 
 ## 6. Droits de la Personne Concernée
 
